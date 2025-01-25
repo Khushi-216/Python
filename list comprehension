@@ -1,0 +1,4 @@
+l = [1,2,3,4]
+square=[i*i for i in l]
+print(l)
+print(square)
