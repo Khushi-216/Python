@@ -8,7 +8,4 @@ for i in range(0,n):
       n2=int(input())
       for j in range (1,n2+1):
           l[i].append(a*j)
-      
-
-
 print(l)
